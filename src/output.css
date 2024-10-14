@@ -1274,6 +1274,10 @@ video {
   background-image: url('../assets/images/egg-shap.png');
 }
 
+.bg-\[url\(\'\.\/assets\/images\/egg-shap\.png\'\)\] {
+  background-image: url('./assets/images/egg-shap.png');
+}
+
 .bg-contain {
   background-size: contain;
 }
